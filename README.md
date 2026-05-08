@@ -1,6 +1,6 @@
 # EGFRpred: QSAR based model for discriminating EGFR inhibitors and non-inhibitors using Random forest
 
-**EGFR10** is a computational platform designed for the identification and classification of inhibitors and non-inhibitors of the **Epidermal Growth Factor Receptor (EGFR)**.
+**EGFRpred** is a computational platform designed for the identification and classification of inhibitors and non-inhibitors of the **Epidermal Growth Factor Receptor (EGFR)**.
 While previous QSAR (Quantitative Structure-Activity Relationship) models were often limited to specific chemical classes like quinazoline derivatives, this resource was developed using a large and diverse dataset of approximately **3,500 molecules** to provide broader predictive power.
 
 **Web Server:** https://webs.iiitd.edu.in/oscadd/egfrpred/index.php
@@ -75,4 +75,4 @@ IIIT Delhi
 
 ## Support
 
-The development of EGFR10 was supported by the **Council of Scientific and Industrial Research (CSIR)** and the **Department of Biotechnology (DBT)**, Government of India.
+The development of EGFRpred was supported by the **Council of Scientific and Industrial Research (CSIR)** and the **Department of Biotechnology (DBT)**, Government of India.
