@@ -10,7 +10,9 @@ While previous QSAR (Quantitative Structure-Activity Relationship) models were o
 
 Singh, H., Singh, S., Singla, D., Agarwal, S. M., & Raghava, G. P. S. (2015).
 **QSAR based model for discriminating EGFR inhibitors and non-inhibitors using Random forest.** *Biology Direct*, 10, 10.
-[https://doi.org/10.1186/s13062-015-0046-9](https://www.google.com/search?q=https://doi.org/10.1186/s13062-015-0046-9)
+https://doi.org/10.1186/s13062-015-0046-9
+
+This work is also available at https://doi.org/10.5281/zenodo.20094938
 
 
 ## About the Research
